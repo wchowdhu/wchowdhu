@@ -1,4 +1,4 @@
-### Hi there :smile_cat: Welcome to my GitHub Profile!
+### Hi there :octocat: Welcome to my GitHub Profile!
 
 <!--
 **wchowdhu/wchowdhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
