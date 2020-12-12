@@ -9,7 +9,7 @@ You can connect with me on [![Linkedin][1.2]][1].
 
 <!-- Icons -->
 
-[1.2]: https://github.com/wchowdhu/wchowdhu/blob/main/linkedin_blue.png (Linkedin icon without padding)
+[1.2]: https://github.com/wchowdhu/wchowdhu/blob/main/linkedin.png (Linkedin icon without padding)
 
 <!-- Links to your social media accounts -->
 
