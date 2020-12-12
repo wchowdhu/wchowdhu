@@ -11,7 +11,6 @@ You can also connect with me on [![Linkedin][1.2]][1] or on [![Kaggle][2.2]][2]
 
 [1.2]: https://github.com/wchowdhu/wchowdhu/blob/main/linkedin.png (Linkedin icon without padding)
 [2.2]: https://github.com/wchowdhu/wchowdhu/blob/main/kaggle.png (Kaggle icon without padding)
--->
 
 
 <!-- Links to your social media accounts -->
