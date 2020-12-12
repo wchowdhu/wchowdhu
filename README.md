@@ -5,6 +5,9 @@
 
 <!-- Actual text -->
 
+#My name is Wasifa Chowdhury and I'm a Machine Learning Engineer. I'm from Bangladesh and currently living in Canada.
+You can also connect with me on [![Linkedin][1.2]][1].
+
 My name is Wasifa Chowdhury and I'm a Machine Learning Engineer. I'm from Bangladesh and currently living in Canada.
 You can also connect with me on [![Linkedin][1.2]][1].
 
