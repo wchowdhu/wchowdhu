@@ -5,7 +5,7 @@
 
 <!-- Actual text -->
 
-You can connect with me on [!Linkedin[1.2]].
+You can connect with me on [![Linkedin][1.2]][1].
 
 <!-- Icons -->
 
@@ -13,7 +13,7 @@ You can connect with me on [!Linkedin[1.2]].
 
 <!-- Links to your social media accounts -->
 
-[2]: https://www.linkedin.com/in/wasifa-chowdhury
+[1]: https://www.linkedin.com/in/wasifa-chowdhury
 
 Here are some ideas to get you started:
 
