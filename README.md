@@ -1,8 +1,5 @@
 ### Hi there :octocat: Welcome to my GitHub Profile!
 
-<!--
-**wchowdhu/wchowdhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <!-- Actual text -->
 
 My name is Wasifa Chowdhury and I'm a Machine Learning Engineer. I'm from Bangladesh and currently living in Canada.
@@ -15,6 +12,9 @@ You can also connect with me on [![Linkedin][1.2]][1].
 <!-- Links to your social media accounts -->
 
 [1]: https://www.linkedin.com/in/wasifa-chowdhury
+
+<!--
+**wchowdhu/wchowdhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
