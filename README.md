@@ -4,7 +4,8 @@
 
 My name is Wasifa Chowdhury and I'm a Machine Learning Engineer. I'm from Bangladesh and currently living in Canada.
 
-You can also connect with me on [![Linkedin][1.2]][1] or on [![Kaggle][2.2]][2]
+#### Connect with me 
+[![Linkedin][1.2]][1] [![Kaggle][2.2]][2]
 
 
 <!-- Icons -->
