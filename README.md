@@ -5,7 +5,7 @@
 
 <!-- Actual text -->
 
-You can connect with me on [![Linkedin][1.2]][1].
+You can connect with me on [!Linkedin[1.2]].
 
 <!-- Icons -->
 
