@@ -1,6 +1,5 @@
 ### Hi there :octocat: Welcome to my GitHub Profile!
 
-<!-- Actual text
 
 My name is Wasifa Chowdhury and I'm a Machine Learning Engineer. I'm from Bangladesh and currently living in Canada.
 
