@@ -6,19 +6,11 @@ My name is Wasifa Chowdhury and I'm a Machine Learning Engineer. I'm from Bangla
 #### Connect with me:
 [![Linkedin][1.2]][1] [![Kaggle][2.2]][2]
 
-
-
-<!-- Icons
-
 [1.2]: https://github.com/wchowdhu/wchowdhu/blob/main/linkedin.png (Linkedin icon without padding)
 [2.2]: https://github.com/wchowdhu/wchowdhu/blob/main/kaggle.png (Kaggle icon without padding)
--->
-
-<!-- Links to your social media accounts
 
 [1]: https://www.linkedin.com/in/wasifa-chowdhury
 [2]: https://www.kaggle.com/wchowdhu
--->
 
 <!--
 **wchowdhu/wchowdhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
