@@ -1,4 +1,4 @@
-### Hi there :octocat: Welcome to my GitHub Profile!
+## Hi there :octocat: Welcome to my GitHub Profile!
 
 <!--
 I have a foundation in Computer Science with research interest in Natural Language Processing, Machine Learning and any intersection of these fields. I am passionate about contributing to research in language understanding and representation, especially for under-represented languages.
