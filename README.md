@@ -1,7 +1,9 @@
 ### Hi there :octocat: Welcome to my GitHub Profile!
 
 <!--
-My name is Wasifa Chowdhury and I'm a Machine Learning Engineer. I'm from Bangladesh and currently living in Canada.
+I have a foundation in Computer Science with research interest in Natural Language Processing, Machine Learning and any intersection of these fields. I am passionate about contributing to research in language understanding and representation, especially for under-represented languages.
+
+I like to work on projects with real-life implications and actively involve myself in all the stages of ML workflow - from data exploration and analysis, modeling and implementation, to model deployment in the production environment. This allows me to gain new insights in data and improve my analytical as well as technical skills. 
 -->
 
 📫 To connect with me:
